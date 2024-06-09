@@ -2001,7 +2001,7 @@ rfbBool rfbProcessFileTransfer(rfbClientPtr cl, uint8_t contentType, uint8_t con
             if (stat(filename1,&statbuf)==0)
             {
                 if (S_ISDIR(statbuf.st_mode))
-                    retval = rmdir(filename1);
+                    retval = -(RemoveDirectoryA(filename1) != 0);
                 else
                     retval = unlink(filename1);
             }

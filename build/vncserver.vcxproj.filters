@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbregion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\auth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\sockets.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\stats.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\corre.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\hextile.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rre.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\translate.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\cutpaste.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\cursor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\font.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\draw.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\selbox.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\vncauth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\sockets.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\cargs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\ultra.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\scale.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\sha1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\d3des.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbssl_none.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\minilzo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\workplace\vnc\zolkrat\zolkrat\libvncserver\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AD99F07D-BFE7-3F40-A350-04EE08DD1F97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^D:\WORKPLACE\VNC\ZOLKRAT\ZOLKRAT\LIBVNCSERVER\BUILD\CMAKEFILES\983078845931B1DD34ABA4536D86EC1C\GENERATE.STAMP.RULE
+setlocal
+C:\Users\Coder\AppData\Local\Programs\Python\Python311\Lib\site-packages\cmake\data\bin\cmake.exe -SD:/workplace/vnc/zolkrat/zolkrat/libvncserver -BD:/workplace/vnc/zolkrat/zolkrat/libvncserver/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/workplace/vnc/zolkrat/zolkrat/libvncserver/build/LibVNCServer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

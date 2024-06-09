@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/workplace/vnc/zolkrat/zolkrat/libvncserver/CMakeLists.txt
+  backchannel.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\examples\client\backchannel.c(32,32): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  client_examples_backchannel.vcxproj -> D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\client\Debug\backchannel.exe

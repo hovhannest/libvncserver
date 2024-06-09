@@ -13,7 +13,6 @@ client_examples/backchannel
 client_examples/gtkvncviewer
 client_examples/ppmtest
 client_examples/vnc2mpg
-build/
 doc/
 examples/zippy
 examples/backchannel

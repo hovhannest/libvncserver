@@ -1,0 +1,90 @@
+﻿  Building Custom Rule D:/workplace/vnc/zolkrat/zolkrat/libvncserver/CMakeLists.txt
+  main.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\main.c(557,15): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\main.c(669,18): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\main.c(671,18): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\main.c(798,12): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  rfbserver.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(373,22): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(753,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(780,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(845,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(1084,16): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(1146,16): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(1154,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(1157,57): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(1158,57): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(1394,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(1471,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(1584,22): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\rfbserver.c(1764,24): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  rfbregion.c
+  auth.c
+  stats.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\stats.c(435,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  corre.c
+  hextile.c
+  rre.c
+  translate.c
+  cutpaste.c
+  httpd.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\sockets.h(52,1): warning C4005: 'read': macro redefinition
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(54,1): message : see previous definition of 'read'
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(184,109): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(290,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(304,8): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(339,42): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(345,37): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(353,37): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(383,36): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(419,43): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(441,43): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(446,32): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(457,37): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(485,35): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(492,31): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(497,31): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(502,31): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(507,31): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(512,31): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(516,50): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(521,31): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(533,31): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(545,43): warning C4244: 'function': conversion from '__int64' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(462,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\httpd.c(601,22): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  cursor.c
+  font.c
+  draw.c
+  selbox.c
+  vncauth.c
+  cargs.c
+  ultra.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\ultra.c(88,35): warning C4244: '=': conversion from 'lzo_uint' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\ultra.c(117,26): warning C4244: '=': conversion from 'lzo_uint' to 'int', possible loss of data
+  scale.c
+  crypto_included.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(41,29): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(62,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(56,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(75,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(69,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  sha1.c
+  d3des.c
+  rfbssl_none.c
+  minilzo.c
+  Generating Code...
+  sockets.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\sockets.c(207,34): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\sockets.c(230,37): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\sockets.c(265,35): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\sockets.c(641,24): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\sockets.c(720,28): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\sockets.c(814,28): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\sockets.c(929,28): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncserver\sockets.c(1170,82): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+  sockets.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\sockets.c(47,87): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  vncserver.vcxproj -> D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\Debug\vncserver.lib

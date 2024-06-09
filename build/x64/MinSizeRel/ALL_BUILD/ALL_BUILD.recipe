@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\x64\MinSizeRel\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\client\MinSizeRel\backchannel.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\client\MinSizeRel\ppmtest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\backchannel.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\blooptest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\camera.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\colourmaptest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\cursors.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\example.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\fontsel.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\pnmshow.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\pnmshow24.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\regiontest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\repeater.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\rotate.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\simple.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\simple15.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\storepasswd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\MinSizeRel\vncev.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\test\MinSizeRel\cargstest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\test\MinSizeRel\copyrecttest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\test\MinSizeRel\encodingstest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\x64\MinSizeRel\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

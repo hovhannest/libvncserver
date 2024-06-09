@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\x64\Debug\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\client\Debug\backchannel.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\client\Debug\ppmtest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\backchannel.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\blooptest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\camera.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\colourmaptest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\cursors.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\example.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\fontsel.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\pnmshow.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\pnmshow24.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\regiontest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\repeater.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\rotate.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\simple.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\simple15.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\storepasswd.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\examples\server\Debug\vncev.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\test\Debug\cargstest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\test\Debug\copyrecttest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\test\Debug\encodingstest.exe</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\x64\Debug\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

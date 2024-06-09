@@ -1,0 +1,57 @@
+﻿  Building Custom Rule D:/workplace/vnc/zolkrat/zolkrat/libvncserver/CMakeLists.txt
+  cursor.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\cursor.c(91,41): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\cursor.c(142,39): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+  listen.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\listen.c(198,64): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\listen.c(200,64): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+  rfbclient.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(591,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(632,41): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(634,41): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(783,9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(841,47): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(845,48): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(885,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(886,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(907,46): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(1290,25): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(1293,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rfbclient.c(1554,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rre.c(50,17): warning C4018: '<': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\corre.c(56,19): warning C4018: '<': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\ultra.c(69,31): warning C4244: '=': conversion from 'lzo_uint' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\ultra.c(160,49): warning C4244: '=': conversion from 'lzo_uint' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\ultra.c(197,14): warning C4018: '<': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rre.c(50,17): warning C4018: '<': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\corre.c(56,19): warning C4018: '<': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\ultra.c(69,31): warning C4244: '=': conversion from 'lzo_uint' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\ultra.c(160,49): warning C4244: '=': conversion from 'lzo_uint' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\ultra.c(197,14): warning C4018: '<': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\rre.c(50,17): warning C4018: '<': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\corre.c(56,19): warning C4018: '<': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\ultra.c(69,31): warning C4244: '=': conversion from 'lzo_uint' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\ultra.c(160,49): warning C4244: '=': conversion from 'lzo_uint' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\ultra.c(197,14): warning C4018: '<': signed/unsigned mismatch
+  vncviewer.c
+  crypto_included.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(41,29): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(62,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(56,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(75,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\crypto_included.c(69,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  sha1.c
+  d3des.c
+  tls_none.c
+  minilzo.c
+  Generating Code...
+  sockets.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\sockets.c(157,13): warning C4018: '>': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\sockets.c(206,13): warning C4018: '>': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\sockets.c(287,12): warning C4018: '<': signed/unsigned mismatch
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\sockets.c(302,27): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\sockets.c(360,85): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\libvncclient\sockets.c(864,26): warning C4244: 'function': conversion from 'SOCKET' to 'int', possible loss of data
+  sockets.c
+D:\workplace\vnc\zolkrat\zolkrat\libvncserver\src\common\sockets.c(47,87): warning C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  vncclient.vcxproj -> D:\workplace\vnc\zolkrat\zolkrat\libvncserver\build\MinSizeRel\vncclient.lib
